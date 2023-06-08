@@ -1,0 +1,10 @@
+.container{
+    
+    width: 100%;
+    /* border: 1px solid red; */
+    text-align: center;
+}
+.heroText{
+    font-size: 200px;
+    color: rgb(255, 255, 255);
+}
