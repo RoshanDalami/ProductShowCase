@@ -1,0 +1,38 @@
+.container{
+   
+    /* border: 1px solid red; */
+    display: flex;
+    margin: 20px 20px 0px 20px;
+    
+    
+}
+.wrapper{
+    width: 50%;
+    margin: 0 auto;
+    /* border: 1px solid red; */
+}
+
+.image{
+    width: 400px;
+    height: 400px;
+    
+}
+.title{
+    color: white;
+    text-align: center;
+}
+.description{
+    width: 60%;
+    margin: 0 auto;
+    color: white;
+
+}
+.btn{
+    padding: 5px 15px;
+    background:none;
+    color: white;
+    border: none;
+    background-color: rgb(83, 83, 220);
+    margin: 20px;
+    cursor: pointer;
+}

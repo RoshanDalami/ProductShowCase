@@ -13,7 +13,8 @@ const Home = () => {
     >
       <h1 className={classes.heroText}>Welcome !</h1>
     </motion.div>
-  );
+   
+  ); 
 };
 
 export default Home;
